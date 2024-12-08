@@ -1,0 +1,21 @@
+footer {
+    background-color: var(--bg-color-2);
+}
+
+footer.container {
+    min-height: auto;
+}
+
+footer.container .inside {
+    padding: var(--mob-padding);
+}
+
+.social-icons {
+    width: min-content;
+    height: min-content;
+}
+
+.social-icons a {
+    width: min-content;
+    height: min-content;
+}
